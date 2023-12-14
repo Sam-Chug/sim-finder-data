@@ -1,4 +1,4 @@
-{"staffNames": [
+{"staffNames":[
     "M.O.M.I. Fawn",
     "M.O.M.I. Raeven",
     "D.A.D.D.I. Pyrosim",
